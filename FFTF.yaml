@@ -11,14 +11,11 @@ settings:
   burnSteps: 0
   d3dMem: 159999000
   detailedAxialExpansion: true
-  economics: false
   epsEig: 1e-08
   epsFSAvg: 1e-07
   epsFSPoint: 1e-07
   genXS: Neutron
   loadingFile: FFTF-blueprints.yaml
-  numProcessors: 24
+  nTasks: 24
   outers: 1000
   power: 400000000.0
-  summarMem: 159999000
-  zoneFlowSummary: false
